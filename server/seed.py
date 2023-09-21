@@ -63,7 +63,7 @@ platforms = [
     "PC",
 ]
 
-fake = Faker()
+# fake = Faker()
 
 with app.app_context():
 
